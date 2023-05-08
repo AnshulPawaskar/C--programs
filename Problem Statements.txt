@@ -1,0 +1,113 @@
+1.)  Accept two numbers and display the result of addition, subtraction, multiplication, division and modulus using intergers.
+2.)  Accept two numbers and display the result of addition, subtraction, multiplication and division using float.
+3.)  Accept two numbers and display the result of and, or, xor, left shift, right shift and not.
+4.)  Accept temperature in Celsius and display the temperature in Fahreneit.
+5.)  Accept temperature in Fahreneit and display the temperature in Celsius.
+6.)  Accept temperature in Celsius and display the temperature in Kelvin.
+7.)  Accept temperature in Kelvin and display the temperature in Celsius.
+8.)  Swapping two numbers using a third variable.
+9.)  Swapping two numbers without using a third variable.
+10.) Accept marks of 5 subjects and display total marks, average marks and percentage.
+11.) Accept Principal Amount, Rate of Interest and period and display the Simple Interest and Amount.
+12.) Check whether the entered number is positive or not.
+13.) Check whether the entered number is negative or not.
+14.) Accept two numbers and display the larger of the two numbers.
+15.) Accept two numbers and display the smaller of the two numbers.
+16.) Accept three numbers and display the larger of the three numbers. (Using nested if....else statements)
+17.) Accept three numbers and display the larger of the three numbers. (Using else if ladder statements)
+18.) Accept three numbers and display the smaller of the three numbers. (Using nested if....else statements)
+19.) Accept three numbers and display the smaller of the three numbers. (Using else if ladder statements)
+20.) Check whether the accepted number is an even or an odd number.
+21.) Check whether the accepted number is divisible by 5 or not.
+22.) Display whether the entered number is positive, negative or zero.
+23.) Accept marks of 5 subjects and display total marks, average marks, percentage and grade.
+     Where Grade A+ : Percentage>=90
+	   Grade A : Percentage>=80
+	   Grade B+ : Percentage>=70
+	   Grade B : Percentage>=60
+	   Grade C : Percentage>=50
+	   Grade D : Percentage>=40
+	   Grade E : Percentage>=35
+	   else Grade F.
+24.) Create a menu driven arithmetic calculator. (Using else if ladder)
+25.) Create a menu driven arithmetic calculator. (Using switch case)
+26.) Create a menu driven logical calculator. (Using else if ladder)
+27.) Create a menu driven logical calculator. (Using switch case)
+28.) Create a menu driven program to select a language. (Using else if ladder)
+     1 - English
+     2 - Hindi
+     3 - Marathi
+     4 - Konkani
+     5 - Kannada
+     6 - Gujarati	   
+29.) Create a menu driven program to select a language. (Using switch case)
+     1 - English
+     2 - Hindi
+     3 - Marathi
+     4 - Konkani
+     5 - Kannada
+     6 - Gujarati	   
+30.) Display numbers from 1 to 10.
+31.) Display even numbers from 1 to 10. (Using if condition)
+32.) Display even numbers from 1 to 10. (Without using if condition)
+33.) Display odd numbers from 1 to 10. (Using if condition)
+34.) Display odd numbers from 1 to 10. (Without using if condition)
+35.) Display the sum of all the numbers from 1 to the entered number.
+36.) Display the sum of all the even numbers from 1 to the entered number.
+37.) Display the sum of all the odd numbers from 1 to the entered number.
+38.) Display the sum of squares of all the numbers from 1 to the entered number.
+39.) Display the sum of cubes of all the numbers from 1 to the entered number.
+40.) Display the  factorial of the entered number. 
+41.) Display the factors of the entered number.
+42.) Check whether the given number is prime or not.
+43.) Display all the prime numbers from 1 to the entered number.
+44.) Display the reverse of an entered number.
+45.) Check whether the entered number is palindrome or not.
+46.) Display all the palindrome numbers from 1 to the entered number.
+47.) Display the length of the entered number.
+48.) Find the sum of the digits of the entered number.
+49.) Find the sum of squares of the digits of the entered number.
+50.) Find the product of the digits of the entered number.
+51.) Accept a number and a power and display the number raised to the power.
+52.) Accept a number and display the number raised to the power of that number.
+53.) Check whether the entered number is Armstrong number or not.
+54.) Display all the Armstrong numbers from 1 to the entered number.
+55.) Display Fibonacci series till the entered number.
+56.) Display the multiplication table upto 10 of the entered number.
+57.) Convert entered decimal number to binary number.
+58.) Convert entered binary number to decimal number.
+59.) Convert entered decimal number to octal number.
+60.) Convert entered octal number to decimal number.
+61.) Convert entered binary number to octal number.
+62.) Convert entered octal number to binary number.
+63.) Convert entered decimal number to hexadecimal number.
+64.) Convert entered hexadecimal number to decimal number.
+65.) Convert entered binary number to hexadecimal number.
+66.) Convert entered hexadecimal number to binary number.
+67.) Convert entered octal number to hexadecimal number.
+68.) Convert entered hexadecimal number to octal number.
+69.) Convert entered number into words.
+70.) Display the following pattern 1 untill the entered row number.
+     *
+     **
+     ***
+     ****
+71.) 
+70.) Accept a 1D array and display it.
+71.) Accept a 1D array and display the sum of all the elements.
+72.) Accept a 1D array and display the sum of even and odd terms of an array.
+73.) Accept a 1D array and display the sum of terms at even and odd positions of an array.
+74.) Accept a 1D array and display the maximum element of that array.
+75.) Accept a 1D array and display the minimum element of that array.
+76.) Accept a 1D array and display the product of all the elements.
+77.) Accept a 1D array and display the sum of even terms and the product of odd terms.
+78.) Accept a 1D array and delete the odd terms of the array.
+79.) Accept a 1D array and delete the terms divisible by 4.
+80.) Accept a 1D array and multiply each terms with a number entered by the user.
+81.) Accept a 1D array and display the repeated elements of the array.
+82.) Accept a 1D array and display the number of times each element appears in the array.
+83.) Accept two 1D arrays and display the sum and difference of both the arrays.
+84.) Accept a matrix and display the matrix.
+85.) Accept a matrix and display the transpose of that matrix.
+86.) Accept two matrices and display the sum and the difference of two matrices.
+87.) Accept two matrices and display the multiplication of the two matrices.
